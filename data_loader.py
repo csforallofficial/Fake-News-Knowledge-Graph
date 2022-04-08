@@ -10,6 +10,7 @@ from sklearn.model_selection import train_test_split
 from nltk import sent_tokenize, word_tokenize
 from multiprocessing import Pool as ProcessPool
 
+
 ASYMMETRIC = True
 DEBUG_NUM = 400
 W2I = None
